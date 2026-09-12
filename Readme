@@ -1,0 +1,21 @@
+Tic-Tac-Toe Game
+
+A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
+
+The game allows two players to take turns placing X and O on a 3×3 grid. The game automatically checks for winning combinations and declares the winner when a player gets three matching symbols in a row, column, or diagonal. If all boxes are filled without a winner, the game ends in a draw.
+
+Features
+🎮 Two-player gameplay
+❌ Different styling for X and O
+🏆 Automatic winner detection
+🤝 Draw detection
+🔄 Reset Game and New Game buttons
+🚫 Prevents players from selecting an already-used box
+✨ Hover effects for available boxes
+📱 Simple and responsive layout
+Technologies Used
+HTML — Game structure
+CSS — Styling and layout
+JavaScript — Game logic, player turns, win/draw detection, and game controls
+
+This project was created as a beginner-friendly JavaScript project to practice DOM manipulation, event listeners, conditional logic, arrays, and functions.
